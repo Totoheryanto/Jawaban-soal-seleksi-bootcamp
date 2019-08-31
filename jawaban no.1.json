@@ -1,0 +1,24 @@
+{
+    "Nama": "Toto Heryanto",
+    "Umur": 21,
+    "Alamat": "Desa Cibentang Rt 002/001 Dusun Cilame Kec.Kramatmulaya Kab.Kuningan Jawa Barat",
+    "Hobi": [
+      "1.Menggambar",
+      "2.Membaca Komik",
+      "3.Menonton Film"
+    ],
+    "Not Maried": true,
+    "Asal Sekolah": [
+      "Sekolah      :SMKN 3 Kuningan",
+      "Tahun Masuk  :Tahun 2013 ",
+      "Tahun Keluar :Tahun 2016",
+      "Jurusan      :Multimedia"
+    ],
+    "Asal Sekolah (copy)": [
+      "Microsoft Office      :Advanced",
+      "Adobe Photoshop       :Beginner ",
+      "Adobe Ilustrator      :Beginner",
+      "Corel Draw            :Advanced"
+    ],
+    "Interest in Coding": true
+  }
